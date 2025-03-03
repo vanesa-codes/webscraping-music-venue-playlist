@@ -1,2 +1,1 @@
-# webscraping-music-venue-playlist
-Web-scrape upcoming shows from local music venue and create a Spotify playlist.
+This Python script web scrapes schedule from DC music venue, Black Cat, and creates a Spotify playlist with the top ten songs for each upcoming artist.
