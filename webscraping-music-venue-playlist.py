@@ -139,6 +139,6 @@ for index, row in shows_three_weeks.iterrows():
 print('Top ten songs for headliners acquired.')
 
 # Update Spotify playlist
-playlist_id = '2yUNMsoAxmFwBL13Ht5IoL'
+playlist_id = 'INSERT HERE'
 sp.playlist_replace_items(playlist_id, master_track_id_list)
 print('Playlist updated.')
